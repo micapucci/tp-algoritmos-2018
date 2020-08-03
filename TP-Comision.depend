@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1542201845 source:/Users/psokolowicz/Documents/AlgoritmosUTN/TP-Comision/main.cpp
+	<iostream>
+	<fstream>
+	"rwstring.hpp"
+	"listasutil.hpp"
+	"listasord.hpp"
+	"listasordUni.hpp"
+
+1531943568 /Users/psokolowicz/Documents/AlgoritmosUTN/TP-Comision/rwstring.hpp
+
+1537535351 /Users/psokolowicz/Documents/AlgoritmosUTN/TP-Comision/listasutil.hpp
+
+1538143814 /Users/psokolowicz/Documents/AlgoritmosUTN/TP-Comision/listasord.hpp
+
+1538144178 /Users/psokolowicz/Documents/AlgoritmosUTN/TP-Comision/listasordUni.hpp
+
+1542639989 source:f:\documentos\utn\algoritmos y estructura de datos\tp-comision\tp-comision\main.cpp
+	<iostream>
+	<fstream>
+	"rwstring.hpp"
+	"listasutil.hpp"
+	"listasord.hpp"
+	"listasordUni.hpp"
+
+1531943568 f:\documentos\utn\algoritmos y estructura de datos\tp-comision\tp-comision\rwstring.hpp
+
+1542633479 f:\documentos\utn\algoritmos y estructura de datos\tp-comision\tp-comision\listasutil.hpp
+
+1538143814 f:\documentos\utn\algoritmos y estructura de datos\tp-comision\tp-comision\listasord.hpp
+
+1538144178 f:\documentos\utn\algoritmos y estructura de datos\tp-comision\tp-comision\listasorduni.hpp
+
+1543242012 source:f:\documentos\utn\aprobadas\algoritmos y estructura de datos\tp-comision\tp-comision\main.cpp
+	<iostream>
+	<fstream>
+	<typeinfo>
+	"rwstring.hpp"
+	"listasutil.hpp"
+	"listasord.hpp"
+	"listasordUni.hpp"
+	"listas.hpp"
+
+1531943568 f:\documentos\utn\aprobadas\algoritmos y estructura de datos\tp-comision\tp-comision\rwstring.hpp
+
+1543241151 f:\documentos\utn\aprobadas\algoritmos y estructura de datos\tp-comision\tp-comision\listasutil.hpp
+
+1538143814 f:\documentos\utn\aprobadas\algoritmos y estructura de datos\tp-comision\tp-comision\listasord.hpp
+
+1538144178 f:\documentos\utn\aprobadas\algoritmos y estructura de datos\tp-comision\tp-comision\listasorduni.hpp
+
+1542978358 f:\documentos\utn\aprobadas\algoritmos y estructura de datos\tp-comision\tp-comision\listas.hpp
+
